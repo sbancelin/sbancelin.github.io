@@ -29,16 +29,47 @@ cv:
         position: Chargé de Recherche CNRS
         location: Talence, France
         start_date: 2023
-        summary: Nonlinear microscopy for the study of the biomechanics of connective tissues.
+        summary: Infrared multiphoton microscopy for the study of the biomechanics of connective tissues.
 
       - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
         position: Chargé de Recherche CNRS
         location: Bordeaux, France
-        start_date: 2021
+        start_date: 2020
         end_date: 2022
-        summary: In vivo super-resolution microscopy for the study of synaptic plasticity.
+        summary: Adaptive optics for in vivo STED microscopy.
+
+      - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
+        position: Postdoctoral researcher
+        location: Bordeaux, France
+        start_date: 2016
+        end_date: 2019
+        summary: In vivo STED imaging of synaptic plasticity in the hippocampus.
+
+      - company: INRS-EMT, Université du Québec
+        position: Postdoctoral researcher
+        location: Varennes, Canada
+        start_date: 2014
+        end_date: 2016
+        summary: Interferometric nonlinear imaging in biological tissues.
+
+      - company: Laboratoire d'Optique et Biosciences (LOB), École Polytechnique – CNRS – Inserm
+        position: PhD candidate
+        location: Palaiseau, France
+        start_date: 2010
+        end_date: 2013
+        summary: Quantitative imaging of collagen by second-harmonic generation.
+
+    Training:
+      - label: PhD in biophotonics (2010–2013)
+        details: École Polytechnique – CNRS – Inserm.
+      - label: Diplôme de Formation Supérieure Biomédicale — DFSB (2010–2013)
+        details: IFSBM, Université Paris-Sud.
+      - label: M2 "Optics, Matter and Plasma — Light–Matter Interaction" (2008–2010)
+        details: ENS Cachan – UPMC.
 
     PhD supervision:
+      - label: Théo Martinaud — PhD, LP2N (since 2025)
+        details: Brillouin microscopy for the biomechanics of connective tissues (VIPA-based spectrometer on a scanning microscope).
       - label: Nasim Akhtar — PhD, LP2N (since 2023)
         details: Multimodal 3-photon fluorescence microscopy applied to neurophotonics. Co-supervised with L. Cognet (50%).
       - label: Rohit Mangalwedhekar — PhD, LP2N (since 2023)
@@ -47,8 +78,6 @@ cv:
         details: Arkitekt — an open-source framework for modern bioimaging workflows. Co-supervised with V. Nägerl. Now postdoc at the University of Linz.
 
     Internship supervision:
-      - label: Théo Martinaud — M2, LP2N (2025)
-        details: Assembly of a VIPA spectrometer and its integration on a scanning microscope.
       - label: Matys Lambert — IUT Mesures Physiques, 3rd year (2025)
         details: Assembly of a symmetric tensile extensometer to study connective tissues.
       - label: Gioele Sassi — M1, LP2N (2023)

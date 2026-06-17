@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher in nonlinear optical microscopy — <a href='https://www.lp2n.institutoptique.fr/'>LP2N</a>, Talence, France.
 

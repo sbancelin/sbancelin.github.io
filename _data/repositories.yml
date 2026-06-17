@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - sbancelin/DeepLight
   - sbancelin/FibreMap
   - sbancelin/PSF-generator
+  - jhnnsrs/faser
   - sbancelin/sbancelin.github.io
