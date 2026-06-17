@@ -38,3 +38,13 @@ html[data-theme="dark"] {
   --global-theme-color: #32cb32;
   --global-hover-color: #32cb32;
 }
+
+/* ---- Uniform publication thumbnails ----
+   Force every preview image to the same box, whatever the source dimensions. */
+.publications ol.bibliography li .preview {
+  display: block;
+  width: 100%;
+  height: 5.5rem;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
