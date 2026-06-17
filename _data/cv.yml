@@ -1,189 +1,197 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Stéphane Bancelin
+  label: Chargé de Recherche CNRS — nonlinear & super-resolution optical microscopy
+  email: stephane.bancelin@cnrs.fr
+  phone: +33 (0)5 57 01 71 14
+  location: Talence, France
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Chargé de Recherche CNRS at LP2N (Institut d'Optique d'Aquitaine), developing nonlinear
+    and super-resolution optical microscopy to study the structure and biomechanics of
+    biological tissues.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: sbancelin
+    - network: ORCID
+      username: 0000-0001-6328-0423
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 1 rue François Mitterrand
+    city: Talence
+    region: Nouvelle-Aquitaine
+    postalCode: "33400"
+    countryCode: FR
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    Research experience:
+      - company: LP2N, Université de Bordeaux – CNRS – Institut d'Optique
+        position: Chargé de Recherche CNRS
+        location: Talence, France
+        start_date: 2023
+        end_date: present
+        summary: Nonlinear microscopy for the study of the biomechanics of connective tissues.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
+        position: Chargé de Recherche CNRS
+        location: Bordeaux, France
+        start_date: 2021
+        end_date: 2022
+        summary: In vivo super-resolution microscopy for the study of synaptic plasticity.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+    PhD supervision:
+      - name: Nasim Akhtar (LP2N) — co-supervision with L. Cognet (50%)
+        start_date: 2023
+        end_date: present
+        summary: Multimodal 3-photon fluorescence microscopy applied to neurophotonics.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - name: Rohit Mangalwedhekar (LP2N) — co-supervision with L. Cognet (50%)
+        start_date: 2023
+        end_date: present
+        summary: Super-resolution multimodal dynamic microscopy in biophysical models and biological tissues.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - name: Johannes Roos (IINS) — co-supervision with V. Nägerl
+        end_date: 2023
+        summary: Arkitekt — an open-source framework for modern bioimaging workflows. Now postdoc at the University of Linz.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    Internship supervision:
+      - name: Théo Martinaud — M2, LP2N
+        start_date: 2025
+        summary: Assembly of a VIPA spectrometer and integration on a scanning microscope.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - name: Matys Lambert — IUT Mesures Physiques (3rd year)
+        start_date: 2025
+        summary: Assembly of a symmetric tensile extensometer to study connective tissues.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - name: Gioele Sassi — M1, LP2N
+        start_date: 2023
+        summary: Design and implementation of a microscope for multiphoton imaging of single-walled carbon nanotubes in the IR range.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - name: Mohamed Belkadi — M2, IINS
+        start_date: 2022
+        summary: PSF optimisation using SLM-based adaptive optics in brain tissue.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - name: Philippe Nguyen — M2, IINS
+        start_date: 2021
+        summary: Development of quantitative approaches for inverse-contrast STED microscopy.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Teaching:
+      - name: M2 lectures — EUR Light & EUR Neurophotonics (6 h/year)
+        start_date: 2021
+        end_date: 2024
+        summary: "Super-resolution STED microscopy in neuroscience; Microscopy beyond fluorescence."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - name: Bibliographic project — Institut d'Optique (1 week/year)
+        start_date: 2023
+        end_date: present
+        summary: Supervising trios of IOGS engineering students working on a recent paper linked to the team's activities.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - name: Labcourse IINS-BIC organisation — M2 EUR-Light & EUR-Neuro (2 weeks/year)
+        start_date: 2021
+        end_date: 2023
+        summary: Experimental projects comparing super-resolution techniques (STED, STORM, Expansion).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Instructor — ANF "Super-resolution microscopy", Bordeaux Imaging Center
+        start_date: 2021
+        end_date: 2023
+        summary: Hands-on training in super-resolution microscopy (~4 h/year).
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Instructor — CAJAL School, Bordeaux Neuroscience School
+        start_date: 2021
+        end_date: 2022
+        summary: Advanced imaging techniques for cellular and systems neuroscience; connectomics from micro to macro scale.
 
-      - name: English
-        summary: "Fluent"
+    Service & responsibilities:
+      - name: Member of the LP2N laboratory council
+        start_date: 2025
+        end_date: present
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Deployment of a local generative-AI service on the lab compute server
+        start_date: 2024
+        end_date: 2025
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Organiser of the LP2N laboratory retreat (~80 participants)
+        start_date: 2024
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Organiser of the LP2N microscopy Journal Club
+        start_date: 2024
+        end_date: present
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Coordinator of the LP2N student seminars
+        start_date: 2023
+        end_date: 2024
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Animal welfare duties (SBEA) and module lead, CHRONIC / PIV-EXPE facilities, Neurocampus
+        start_date: 2021
+        end_date: 2022
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Evaluation & reviewing:
+      - name: Expert evaluator — Horizon Europe, Marie Skłodowska-Curie Actions (MSCA)
+        start_date: 2021
+        end_date: present
+        summary: Evaluation of 6–10 postdoctoral fellowship applications per year, including reports and consensus discussions.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Regular reviewer for peer-reviewed journals (4–8 manuscripts/year)
+        start_date: 2021
+        end_date: present
+        summary: Nature Communications, Optica, Scientific Reports, Biomedical Optics Express, Optics Letters, Optics Express, Nano Letters, Scientific Data, and others.
+
+      - name: Project evaluator — ANR PRC; Région Bourgogne-Franche-Comté (Envergure-Amorçage)
+        start_date: 2024
+
+      - name: Evaluator — Prix Pierre Favard (Société Française de Microscopie); FRC "Espoir en tête"
+        start_date: 2023
+
+      - name: Evaluator — A*Midex research equipment call
+        start_date: 2022
+
+    Research funding:
+      - name: AAP Recherche Nouvelle-Aquitaine — MOMI (PI)
+        start_date: 2024
+        summary: 3 years, 192 k€. Multimodal optical microscopy to probe the architecture of bioprinted tissues (partner Poietis).
+
+      - name: ANR JCJC — HaBIm (PI)
+        start_date: 2023
+        summary: 5 years, 349 k€. Second-harmonic and Brillouin imaging to probe multiscale vocal-cord biomechanics.
+
+      - name: Emergence INP (PI)
+        start_date: 2023
+        summary: 1 year, 60 k€. Assembly of a 1700 nm multiphoton microscope for biological tissue imaging.
+
+      - name: AAP Département SMR — BioMuIR (PI)
+        start_date: 2023
+        summary: 1 year, 10 k€. Extensometer under a microscope to study connective-tissue biomechanics.
+
+      - name: GPR Light — RoMan (co-PI 50% with L. Cognet)
+        start_date: 2023
+        summary: PhD grant, 3 years, 115 k€. Super-resolution multimodal dynamic microscopy in biophysical models and biological tissues.
+
+      - name: ERC Synergy — ENSEMBLE (task leader)
+        start_date: 2020
+        summary: 6 years, 10 M€ (PI L. Groc). Structure and function of the brain extracellular space; task leader with V. Nägerl (2021–2022) and L. Cognet (since 2023).
+
+    Collaborations:
+      - name: Dr. Frédéric Saltel — BRIC, Bordeaux
+        start_date: 2025
+        summary: 3-photon imaging of hepatic carcinoma.
+
+      - name: Dr. Alban Desoutter — LBN/L2C, Montpellier
+        start_date: 2024
+        summary: Brillouin microscopy of soft connective tissues.
+
+      - name: Poietis — Pessac
+        start_date: 2024
+        summary: Multimodal imaging of bioprinted tissues.
+
+      - name: ALPHANOV — Talence
+        start_date: 2023
+        summary: Validation of a 1700 nm fibre laser for 3-photon imaging.
+
+      - name: Prof. François Légaré — INRS-EMT, Varennes (Canada)
+        start_date: 2021
+        summary: Interferometric SHG microscopy.
+
+      - name: Prof. Martin Fuhrmann (DZNE, Bonn) & Prof. Sun Kwang Kim (Kyung Hee University, Seoul)
+        start_date: 2021
+        end_date: 2022
+        summary: In vivo STED imaging; inverse-contrast STED (SUSHI).

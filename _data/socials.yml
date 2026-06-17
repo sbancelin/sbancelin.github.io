@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: stephane.bancelin@gmail.com # your email address
+email: stephane.bancelin@cnrs.fr # your email address
 github_username: sbancelin # your GitHub username
 orcid_id: 0000-0001-6328-0423 # your ORCID iD
 research_gate_profile: Stephane-Bancelin # your ResearchGate profile name (researchgate.net/profile/<this>) — verify it matches your profile URL
