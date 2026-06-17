@@ -6,14 +6,13 @@ subtitle: Researcher in nonlinear optical microscopy — <a href='https://www.lp
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: microscope_icon_green.svg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>Chargé de Recherche CNRS</strong></p>
     <p>LP2N (UMR 5298) — Institut d'Optique d'Aquitaine</p>
     <p>1 rue François Mitterrand, 33400 Talence, France</p>
     <p>stephane.bancelin@cnrs.fr</p>
-    <p><img src="/assets/img/microscope_icon_green.svg" alt="microscope" width="64" style="margin-top:8px;"></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
