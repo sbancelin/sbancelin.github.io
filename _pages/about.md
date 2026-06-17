@@ -33,4 +33,6 @@ I am a researcher in nonlinear optical microscopy at the [Laboratoire Photonique
 
 I develop optical methods and image-analysis tools to extract structural and functional information from living and biological samples, bridging instrumentation, photonics, and quantitative image processing.
 
+You can find my full list of publications on [ORCID](https://orcid.org/0000-0001-6328-0423) and [ResearchGate](https://www.researchgate.net/profile/Stephane-Bancelin).
+
 *(This is a draft bio — feel free to edit it to match exactly how you want to present yourself.)*
