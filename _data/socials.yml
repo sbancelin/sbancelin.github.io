@@ -4,7 +4,7 @@
 email: stephane.bancelin@gmail.com # your email address
 github_username: sbancelin # your GitHub username
 orcid_id: 0000-0001-6328-0423 # your ORCID iD
-research_gate: Stephane-Bancelin # your ResearchGate profile name (researchgate.net/profile/<this>) — verify it matches your profile URL
+research_gate_profile: Stephane-Bancelin # your ResearchGate profile name (researchgate.net/profile/<this>) — verify it matches your profile URL
 rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: # your Google Scholar ID
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file

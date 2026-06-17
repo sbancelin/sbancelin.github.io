@@ -29,10 +29,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in nonlinear optical microscopy at the [Laboratoire Photonique, Numérique et Nanosciences (LP2N)](https://www.lp2n.institutoptique.fr/) in Talence, France. My work focuses on multiphoton imaging — in particular second-harmonic generation (SHG) microscopy — and its application to the quantitative study of biological tissues such as collagen.
+I am a researcher in nonlinear and super-resolution optical microscopy at the [Laboratoire Photonique, Numérique et Nanosciences (LP2N)](https://www.lp2n.institutoptique.fr/) in Talence, France. I build advanced imaging methods to look at biological tissues with as much detail — and as little perturbation — as possible.
 
-I develop optical methods and image-analysis tools to extract structural and functional information from living and biological samples, bridging instrumentation, photonics, and quantitative image processing.
+My early work focused on second-harmonic generation (SHG) microscopy, which I used to image and quantify the organization of collagen in tissues such as cornea, skin and tendon, linking optical signals to fibrillar structure and biomechanics. Since then, my research has moved toward live multiphoton and STED imaging of brain tissue, where I develop instrumentation and analysis tools — from aberration correction and PSF characterization to real-time acquisition workflows — to study neuronal structures such as dendritic spines in their native environment.
+
+At the interface of photonics, optical instrumentation and quantitative image analysis, I enjoy turning physical measurements into biological insight, and developing the software that makes these experiments reproducible.
 
 You can find my full list of publications on [ORCID](https://orcid.org/0000-0001-6328-0423) and [ResearchGate](https://www.researchgate.net/profile/Stephane-Bancelin).
-
-*(This is a draft bio — feel free to edit it to match exactly how you want to present yourself.)*
