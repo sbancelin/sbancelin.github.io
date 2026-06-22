@@ -5,10 +5,6 @@ cv:
   phone: +33 (0)5 57 01 71 14
   location: Talence, France
   image: ""
-  summary: >
-    CNRS Researcher in biophotonics at LP2N (UMR 5298, Institut d'Optique d'Aquitaine).
-    I develop nonlinear and super-resolution optical microscopy to study the structure and
-    biomechanics of biological tissues.
 
   social_networks:
     - network: GitHub
@@ -29,6 +25,7 @@ cv:
         position: CNRS Researcher
         location: Talence, France
         start_date: 2023
+        end_date: Present
         summary: Non-linear microscopy to study connective-tissue biomechanics.
 
       - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
@@ -147,7 +144,7 @@ cv:
       - label: Katherine Légaré — BSc, INRS-EMT (2014)
         details: Image analysis in interferometric SHG microscopy. Now researcher at TeraXion.
 
-    Collective responsibilities and reviewing:
+    Collective responsibilities and Reviewing:
       - bullet: Expert evaluator — Horizon Europe, Doctoral Network (2026).
       - bullet: LP2N laboratory council member (since 2025).
       - bullet: Organizer — LP2N microscopy Journal Club (2024–2025).
