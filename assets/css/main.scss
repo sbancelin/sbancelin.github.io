@@ -62,3 +62,8 @@ html[data-theme="dark"] {
 .cv .date-column {
   text-align: left;
 }
+
+/* ---- Green frame around project cards ---- */
+.projects .card {
+  border: 1.5px solid var(--global-theme-color);
+}
