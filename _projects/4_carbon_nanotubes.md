@@ -24,3 +24,9 @@ category: Current projects
 </div>
 
 Building a dedicated infrared multiphoton microscope, we then demonstrate the **two-photon imaging of carbon nanotubes**, exploiting their near-infrared luminescence together with the depth and contrast advantages of multiphoton excitation.
+
+<div class="row justify-content-center">
+  <div class="col-md-10 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cnt_fig3.png" class="img-fluid rounded z-depth-1" caption="Demonstration of two-photon imaging of carbon nanotubes recorded with the infrared multiphoton microscope." %}
+  </div>
+</div>
