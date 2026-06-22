@@ -19,22 +19,16 @@ Imaging deep inside biological tissue is limited by the scattering and absorptio
 
 **Single-walled carbon nanotubes (SWCNTs)** are rolled-up sheets of graphene whose electronic — and therefore optical — properties are set by their "chirality" (the (n,m) indices) [(O'Connell et al., 2002)](https://doi.org/10.1126/science.1072631). They emit in the near-infrared, are remarkably photostable and do not blink or bleach, which makes them excellent luminescent probes for deep, long-term imaging. Each chirality has a specific excitation/emission fingerprint, and the nanotubes can be excited through multiphoton processes — both of which we characterise by spectroscopy.
 
-<div class="row align-items-center justify-content-center">
-  <div class="col-md-7">
-    {% include figure.liquid path="assets/img/cnt_fig2.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-md-5 mt-3 mt-md-0">
-    <p class="caption" style="text-align: left;">Spectroscopy of carbon nanotubes: the excitation–emission map (left) resolves the individual chiralities (n,m), each with its own near-infrared signature; the two-photon excitation spectra (right) characterise their multiphoton response.</p>
+<div class="row justify-content-center">
+  <div class="col-md-7 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cnt_fig2.png" class="img-fluid rounded z-depth-1" caption="Spectroscopy of carbon nanotubes: the excitation–emission map (left) resolves the individual chiralities (n,m), each with its own near-infrared signature; the two-photon excitation spectra (right) characterise their multiphoton response." %}
   </div>
 </div>
 
 Building a dedicated infrared multiphoton microscope, we then demonstrate the **two-photon imaging of carbon nanotubes**, exploiting their near-infrared luminescence together with the depth and contrast advantages of multiphoton excitation.
 
-<div class="row align-items-center justify-content-center">
-  <div class="col-md-7">
-    {% include figure.liquid path="assets/img/cnt_fig3.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-md-5 mt-3 mt-md-0">
-    <p class="caption" style="text-align: left;">Demonstration of two-photon imaging of carbon nanotubes recorded with the infrared multiphoton microscope.</p>
+<div class="row justify-content-center">
+  <div class="col-md-7 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/cnt_fig3.png" class="img-fluid rounded z-depth-1" caption="Demonstration of two-photon imaging of carbon nanotubes recorded with the infrared multiphoton microscope." %}
   </div>
 </div>

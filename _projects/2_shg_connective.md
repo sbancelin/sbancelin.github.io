@@ -19,22 +19,12 @@ Second-harmonic generation (SHG) is a **coherent** nonlinear process in which tw
 
 Collagen is the main load-bearing protein of the body, and SHG gives a direct, three-dimensional view of its organisation in **connective tissues** — tendon, ligament, cornea, cartilage, skin, blood vessels. Each tissue has a characteristic collagen architecture that underlies its specific mechanical response: under load, fibres straighten, reorient and slide, producing the non-linear stress–strain behaviour typical of these tissues. By imaging collagen with SHG while the tissue is mechanically tested, we relate microscopic structural changes to the macroscopic **biomechanics**.
 
-<div class="row align-items-center justify-content-center">
-  <div class="col-md-7">
-    {% include figure.liquid path="assets/img/shg_fig2.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-md-5 mt-3 mt-md-0">
-    <p class="caption" style="text-align: left;">Collagen-rich connective tissues (a) and their characteristic non-linear stress–strain behaviour (b), set by the reorientation, straightening and sliding of the fibres; (c–h) SHG imaging of collagen across tissues.</p>
+<div class="row justify-content-center">
+  <div class="col-md-7 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/shg_fig2.png" class="img-fluid rounded z-depth-1" caption="Collagen-rich connective tissues (a) and their characteristic non-linear stress–strain behaviour (b), set by the reorientation, straightening and sliding of the fibres; (c–h) SHG imaging of collagen across tissues." %}
   </div>
 </div>
 
 Turning these images into numbers requires dedicated **image analysis**. From SHG images we quantify, for example, an orientation index that measures how aligned the collagen fibres are. In **skin**, following this index during a traction assay reveals how the initially crimped, randomly-oriented collagen network progressively straightens and aligns along the loading axis — directly correlating the optical measurement with the successive mechanical regimes of the tissue (toe, heel, linear) up to rupture.
 
-<div class="row align-items-center justify-content-center">
-  <div class="col-md-7">
-    {% include figure.liquid path="assets/img/shg_fig3.png" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-md-5 mt-3 mt-md-0">
-    <p class="caption" style="text-align: left;">Image analysis of skin mechanics: the collagen orientation index extracted from SHG images is followed during a traction assay (a, schematic) and correlated with the measured stress–strain response (b), linking fibre reorientation to the mechanical regimes of skin.</p>
-  </div>
-</div>
+{% include figure.liquid path="assets/img/shg_fig3.png" class="img-fluid rounded z-depth-1" caption="Image analysis of skin mechanics: the collagen orientation index extracted from SHG images is followed during a traction assay (a, schematic) and correlated with the measured stress–strain response (b), linking fibre reorientation to the mechanical regimes of skin." %}

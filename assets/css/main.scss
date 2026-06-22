@@ -72,3 +72,8 @@ html[data-theme="dark"] {
 .post article p:not(.caption) {
   text-align: justify;
 }
+
+/* ---- Italic figure captions on project pages ---- */
+.post article .caption {
+  font-style: italic;
+}
