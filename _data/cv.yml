@@ -1,14 +1,14 @@
 cv:
   name: Stéphane Bancelin
-  label: Chargé de Recherche CNRS — nonlinear & super-resolution optical microscopy
+  label: CNRS Researcher in Biophotonics
   email: stephane.bancelin@cnrs.fr
   phone: +33 (0)5 57 01 71 14
   location: Talence, France
   image: ""
   summary: >
-    Chargé de Recherche CNRS at LP2N (UMR 5298, Institut d'Optique d'Aquitaine), developing
-    nonlinear and super-resolution optical microscopy to study the structure and biomechanics
-    of biological tissues.
+    CNRS Researcher in biophotonics at LP2N (UMR 5298, Institut d'Optique d'Aquitaine).
+    I develop nonlinear and super-resolution optical microscopy to study the structure and
+    biomechanics of biological tissues.
 
   social_networks:
     - network: GitHub
@@ -25,120 +25,165 @@ cv:
 
   sections:
     Experience:
-      - company: LP2N, Université de Bordeaux – CNRS – Institut d'Optique
-        position: Chargé de Recherche CNRS
+      - company: LP2N — CNRS, Institut d'Optique, Université de Bordeaux
+        position: CNRS Researcher
         location: Talence, France
         start_date: 2023
-        summary: Infrared multiphoton microscopy for the study of the biomechanics of connective tissues.
+        summary: Non-linear microscopy to study connective-tissue biomechanics.
 
       - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
-        position: Chargé de Recherche CNRS
+        position: CNRS Researcher
         location: Bordeaux, France
         start_date: 2020
         end_date: 2022
         summary: Adaptive optics for in vivo STED microscopy.
 
       - company: Institut Interdisciplinaire de Neurosciences (IINS), Université de Bordeaux – CNRS
-        position: Postdoctoral researcher
+        position: Postdoctoral researcher (Prof. V. Nägerl)
         location: Bordeaux, France
         start_date: 2016
         end_date: 2019
-        summary: In vivo STED imaging of synaptic plasticity in the hippocampus.
+        summary: In vivo super-resolution STED imaging of dendritic spines in the hippocampus.
 
       - company: INRS-EMT, Université du Québec
-        position: Postdoctoral researcher
+        position: Postdoctoral researcher (Prof. F. Légaré)
         location: Varennes, Canada
         start_date: 2014
         end_date: 2016
-        summary: Interferometric nonlinear imaging in biological tissues.
+        summary: Interferometric second-harmonic generation microscopy for non-invasive tissue imaging.
 
       - company: Laboratoire d'Optique et Biosciences (LOB), École Polytechnique – CNRS – Inserm
-        position: PhD candidate
+        position: PhD in Biophotonics (Dr M.-C. Schanne-Klein)
         location: Palaiseau, France
         start_date: 2010
         end_date: 2013
-        summary: Quantitative imaging of collagen by second-harmonic generation.
+        summary: Quantitative imaging of collagen using second-harmonic generation microscopy.
+
+      - company: Laboratory for Applied Optics (LOA), ENSTA ParisTech – CNRS
+        position: Master internship (Dr K. Plamann)
+        location: Palaiseau, France
+        start_date: 2010
+        end_date: 2010
+        summary: Study of corneal transparency.
+
+      - company: Rutherford Appleton Laboratory (RAL), University of Oxford
+        position: Master internship (Dr D. Neely)
+        location: Oxford, UK
+        start_date: 2009
+        end_date: 2009
+        summary: Protection of the optics in the HiPER inertial-fusion reactor.
+
+      - company: Laboratoire Temps-Espace (SYRTE), Observatoire de Paris
+        position: Bachelor internship (Dr A. Landragin)
+        location: Paris, France
+        start_date: 2008
+        end_date: 2008
+        summary: Extended-cavity laser for cold-atom manipulation.
+
+    Scientific areas:
+      - bullet: Light/matter interaction, biophotonics, nonlinear optics, neuroscience.
+      - bullet: "Optical microscopy: multiphoton (SHG, CARS, THG, SFG/DFG), super-resolution (STED), polarimetry, ellipsometry, interferometry, adaptive optics."
+      - bullet: "Computational analysis: 3D reconstruction, segmentation, mathematical morphology, numerical modelling."
+      - bullet: "Collagen chemistry: protein aggregation (fibrillogenesis), extraction/purification, hydroxyproline assays."
+      - bullet: "Tissue manipulation & imaging: skin, brain, bone, cartilage, cornea, embryos, tendon, biomimetic materials."
+      - bullet: "Tissue physiopathology: skin biomechanics, prolapses, cancer, embryogenesis, EDS, osteoarthritis, Alzheimer's disease."
+      - bullet: "Animal experiments: in vivo imaging, brain surgery, stereotaxic injection, animal care."
 
     Training:
-      - label: PhD in biophotonics (2010–2013)
-        details: École Polytechnique – CNRS – Inserm.
-      - label: Diplôme de Formation Supérieure Biomédicale — DFSB (2010–2013)
+      - label: PhD in Biophotonics (2013)
+        details: École Polytechnique.
+      - label: University degree of advanced biomedical studies (2013)
         details: IFSBM, Université Paris-Sud.
-      - label: M2 "Optics, Matter and Plasma — Light–Matter Interaction" (2008–2010)
-        details: ENS Cachan – UPMC.
-
-    PhD supervision:
-      - label: Théo Martinaud — PhD, LP2N (since 2025)
-        details: Brillouin microscopy for the biomechanics of connective tissues (VIPA-based spectrometer on a scanning microscope).
-      - label: Nasim Akhtar — PhD, LP2N (since 2023)
-        details: Multimodal 3-photon fluorescence microscopy applied to neurophotonics. Co-supervised with L. Cognet (50%).
-      - label: Rohit Mangalwedhekar — PhD, LP2N (since 2023)
-        details: Super-resolution multimodal dynamic microscopy in biophysical models and biological tissues. Co-supervised with L. Cognet (50%).
-      - label: Johannes Roos — PhD, IINS (until 2023)
-        details: Arkitekt — an open-source framework for modern bioimaging workflows. Co-supervised with V. Nägerl. Now postdoc at the University of Linz.
-
-    Internship supervision:
-      - label: Matys Lambert — IUT Mesures Physiques, 3rd year (2025)
-        details: Assembly of a symmetric tensile extensometer to study connective tissues.
-      - label: Gioele Sassi — M1, LP2N (2023)
-        details: Design and implementation of a microscope for multiphoton imaging of single-walled carbon nanotubes in the IR range.
-      - label: Mohamed Belkadi — M2, IINS (2022)
-        details: PSF optimisation using SLM-based adaptive optics in brain tissue.
-      - label: Philippe Nguyen — M2, IINS (2021)
-        details: Development of quantitative approaches for inverse-contrast STED microscopy.
+      - label: MSc in Optics — Laser/Matter interactions (2010)
+        details: ENS Cachan – École Polytechnique – UPMC (Paris VI).
+      - label: BSc in experimental physics (2008)
+        details: ENS Cachan – UPMC (Paris VI).
 
     Teaching:
-      - label: M2 lectures — EUR Light & EUR Neurophotonics (2021–2024, 6 h/year)
+      - label: Coordinator — IINS-BIC Labcourse, M2 EUR-Light, Université de Bordeaux (since 2020, 2 weeks/year)
+        details: Hands-on comparison of super-resolution techniques (STED, STORM, Expansion).
+      - label: Master's courses — EUR Light & EUR Neurophotonics (2021–2024, 6 h/year)
         details: "Super-resolution STED microscopy in neuroscience; Microscopy beyond fluorescence."
-      - label: Bibliographic project — Institut d'Optique (since 2023, 1 week/year)
-        details: Supervising trios of IOGS engineering students working on a recent paper linked to the team's activities.
-      - label: Labcourse IINS-BIC — M2 EUR-Light & EUR-Neuro (2021–2023, 2 weeks/year)
-        details: Experimental projects comparing super-resolution techniques (STED, STORM, Expansion).
-      - label: Instructor — ANF "Super-resolution microscopy", Bordeaux Imaging Center (2021–2023)
-        details: Hands-on training in super-resolution microscopy (~4 h/year).
-      - label: Instructor — CAJAL School, Bordeaux Neuroscience School (2021–2022)
-        details: Advanced imaging techniques for cellular and systems neuroscience; connectomics from micro to macro scale.
+      - label: Bibliographic projects — Institut d'Optique (since 2023, 1 week/year)
+        details: Supervising trios of IOGS engineering students on a recent paper linked to the team's activities.
+      - label: Instructor — National Training Action, Bordeaux Imaging Center (2018–2023, ~4 h/year)
+        details: Super-resolution microscopy.
+      - label: Instructor — CAJAL School, Bordeaux School of Neuroscience (2017–2022, 2 weeks/year)
+        details: Connectomics from micro to macro scale; advanced imaging for cellular and systems neuroscience.
+      - label: Teaching assistant in physics — Paris-Sud Faculty of Medicine (2010–2013, 64 h/year)
+      - label: Oral examiner — CPGE PSI*, Lycée Jean-Baptiste Say, Paris (2008–2010, 3 h/week)
 
-    Service and responsibilities:
-      - bullet: Member of the LP2N laboratory council (since 2025).
-      - bullet: Deployment of a local generative-AI service on the lab compute server (2024–2025).
-      - bullet: Organiser of the LP2N laboratory retreat, ~80 participants (2024).
-      - bullet: Organiser of the LP2N microscopy Journal Club (since 2024).
-      - bullet: Coordinator of the LP2N student seminars (2023–2024).
-      - bullet: Animal-welfare duties (SBEA) and module lead, CHRONIC / PIV-EXPE facilities, Neurocampus (2021–2022).
+    PhD supervision:
+      - label: Florestan Luga — PhD, LP2N (since 2026)
+        details: Correlative SHG–Brillouin microscopy in articular cartilage. Co-direction with F. Légaré (Université du Québec).
+      - label: Théo Martinaud — PhD, LP2N (since 2025)
+        details: Nonlinear optical microscopy to visualise the architecture of connective tissues.
+      - label: Nasim Akhtar — PhD, LP2N (since 2023)
+        details: Multimodal 3-photon fluorescence microscopy applied to neurophotonics. Co-direction with L. Cognet.
+      - label: Rohit Mangalwedhekar — PhD, LP2N (since 2023)
+        details: Super-resolution multimodal dynamic microscopy in biophysical models and biological tissues. Co-direction with L. Cognet.
+      - label: Johannes Roos — PhD, IINS (2020–2023)
+        details: Arkitekt — an open-source framework for modern bioimaging workflows. Co-supervision with V. Nägerl. Now postdoc at JKU Linz.
 
-    Evaluation and reviewing:
-      - label: Expert evaluator — Horizon Europe, Marie Skłodowska-Curie Actions (since 2021)
-        details: Evaluation of 6–10 postdoctoral fellowship applications per year, including reports and consensus discussions.
-      - label: Journal reviewer (since 2021, 4–8 manuscripts/year)
-        details: Nature Communications, Optica, Scientific Reports, Biomedical Optics Express, Optics Letters, Optics Express, Nano Letters, Scientific Data, and others.
-      - label: Project evaluator (2022–2024)
-        details: ANR PRC; Région Bourgogne-Franche-Comté (Envergure-Amorçage); A*Midex research equipment; Prix Pierre Favard (Société Française de Microscopie); FRC "Espoir en tête".
+    Student supervision (Master / Bachelor):
+      - label: Théo Martinaud — M2, LP2N (2025)
+        details: VIPA spectrometer and its integration into a scanning microscope.
+      - label: Matys Lambert — IUT Physical Measurements, 3rd year (2025)
+        details: Symmetric tensile extensometer to study connective tissues.
+      - label: Gioele Sassi — M1, LP2N (2023)
+        details: Microscope for multiphoton imaging of single-walled carbon nanotubes in the IR. Now PhD at the University of Trento.
+      - label: Mohamed Belkadi — M2, IINS (2022)
+        details: PSF optimisation using SLM-based adaptive optics in brain tissue. Now engineer at Belimo.
+      - label: Philippe Nguyen — M2, IINS (2021)
+        details: Quantitative approaches for inverse-contrast STED microscopy. Now PhD at CRPP.
+      - label: Sabin Sapkota — BSc, IINS (2019)
+        details: Measuring STED laser pulse duration with a Michelson interferometer.
+      - label: Carlotta Pessina — M2, IINS (2018)
+        details: 2P-STED and aberration correction via adaptive optics. Now lead consultant at BIP.
+      - label: Rached Baida — M1, IINS (2017)
+        details: Confocal microscopy with a tip-tilt scanner. Now engineer at Siemens Healthineers.
+      - label: Etienne Auger — BSc, INRS-EMT (2015)
+        details: Interferometric SHG imaging of equine cartilage. Now engineer at IR&T.
+      - label: Katherine Légaré — BSc, INRS-EMT (2014)
+        details: Image analysis in interferometric SHG microscopy. Now researcher at TeraXion.
 
-    Research funding:
-      - label: AAP Recherche Nouvelle-Aquitaine — MOMI, PI (2024)
-        details: 3 years, 192 k€. Multimodal optical microscopy to probe the architecture of bioprinted tissues (partner Poietis).
+    Collective responsibilities and reviewing:
+      - bullet: Expert evaluator — Horizon Europe, Doctoral Network (2026).
+      - bullet: LP2N laboratory council member (since 2025).
+      - bullet: Organizer — LP2N microscopy Journal Club (2024–2025).
+      - bullet: Member of the AI committee — deployment of a local AI on the lab's computing server (since 2024).
+      - bullet: Project evaluator — Envergure-Amorçage, Région Bourgogne-Franche-Comté (2024).
+      - bullet: Project evaluator — ANR PRC (2024).
+      - bullet: Organizer — LP2N laboratory retreat, ~80 participants (2024).
+      - bullet: Coordinator — LP2N student seminars (2023–2024).
+      - bullet: Reviewer — Pierre Favard prize, French Society of Microscopy (2023).
+      - bullet: Reviewer — "Espoir en tête" exceptional project call, FRC (2023).
+      - bullet: Reviewer — AAP Research Equipment, A*Midex (2022).
+      - bullet: Expert evaluator — Horizon Europe, Marie Skłodowska-Curie Actions (since 2021).
+      - bullet: Module coordinator — CHRONIC animal facility (Neurocampus) and SBEA animal-welfare committee, PIV-EXPE/CHRONIC (2019–2022).
+      - bullet: "Reviewer for international journals (since 2015): Nature Communications, Optica, Scientific Reports, Biomedical Optics Express, Optics Letters, Optics Express, Int. J. of Biological Macromolecules, Revue Française d'Histotechnologie, Nano Letters, Scientific Data."
+      - bullet: Elected member — LOB laboratory council (2011–2013).
+      - bullet: Organizer — 22nd IFSBM Symposium, "Nanotechnologies and Biomedical Applications", 150 participants (2010).
+
+    Funding and distinctions:
+      - label: SMR Department call — BriTis, PI (2026)
+        details: 1 year, 7.5 k€. Brillouin microscopy to characterise soft connective-tissue biomechanics.
+      - label: Nouvelle-Aquitaine Research call — MOMI, PI (2024)
+        details: 3 years, 192 k€ (partner Poietis). Multimodal optical microscopy to probe the architecture of bioprinted tissues.
       - label: ANR JCJC — HaBIm, PI (2023)
-        details: 5 years, 349 k€. Second-harmonic and Brillouin imaging to probe multiscale vocal-cord biomechanics.
+        details: 5 years, 349 k€. Second-harmonic and Brillouin imaging of multiscale vocal-cord biomechanics.
       - label: Emergence INP, PI (2023)
-        details: 1 year, 60 k€. Assembly of a 1700 nm multiphoton microscope for biological tissue imaging.
-      - label: AAP Département SMR — BioMuIR, PI (2023)
-        details: 1 year, 10 k€. Extensometer under a microscope to study connective-tissue biomechanics.
+        details: 1 year, 60 k€. Set-up of a 1700 nm multiphoton microscope for biological tissue imaging.
+      - label: SMR Department call — BioMuIR, PI (2023)
+        details: 1 year, 10 k€. Microscope-mounted extensometer to study connective-tissue biomechanics.
       - label: GPR Light — RoMan, co-PI 50% with L. Cognet (2023)
-        details: PhD grant, 3 years, 115 k€. Super-resolution multimodal dynamic microscopy in biophysical models and biological tissues.
+        details: PhD grant, 3 years, 115 k€. Multimodal dynamic super-resolution microscopy in biophysical models and biological tissues.
       - label: ERC Synergy — ENSEMBLE, task leader (2020)
-        details: 6 years, 10 M€ (PI L. Groc). Structure and function of the brain extracellular space; task leader with V. Nägerl (2021–2022) and L. Cognet (since 2023).
-
-    Collaborations:
-      - label: Dr. Frédéric Saltel — BRIC, Bordeaux (since 2025)
-        details: 3-photon imaging of hepatic carcinoma.
-      - label: Dr. Alban Desoutter — LBN/L2C, Montpellier (since 2024)
-        details: Brillouin microscopy of soft connective tissues.
-      - label: Poietis — Pessac (since 2024)
-        details: Multimodal imaging of bioprinted tissues.
-      - label: ALPHANOV — Talence (since 2023)
-        details: Validation of a 1700 nm fibre laser for 3-photon imaging.
-      - label: Prof. François Légaré — INRS-EMT, Varennes, Canada (since 2021)
-        details: Interferometric SHG microscopy.
-      - label: Prof. Martin Fuhrmann (DZNE, Bonn) & Prof. Sun Kwang Kim (Kyung Hee University, Seoul) (2021–2022)
-        details: In vivo STED imaging; inverse-contrast STED (SUSHI).
+        details: 6 years, 10 M€ (PI L. Groc). Structure and function of the brain extracellular space; task leader with V. Nägerl (2021–2022) then L. Cognet (since 2023).
+      - label: Marie Skłodowska-Curie Individual Fellowship — IVSTED (2018)
+        details: 2 years, 185 k€. In vivo super-resolution imaging of synapses in the hippocampus.
+      - label: AXA Research Fund postdoctoral grant (2017)
+        details: 2 years, 130 k€. In vivo STED microscopy of hippocampal synapses in Alzheimer's disease.
+      - label: RTRA "Triangle de la Physique" — best PhD award (2014)
+      - label: MERNT doctoral grant (2010)
+        details: 3 years, 90 k€. Quantitative imaging of collagen by second-harmonic generation microscopy.
