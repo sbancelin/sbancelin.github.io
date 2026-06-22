@@ -6,12 +6,14 @@ importance: 1
 category: Current projects
 ---
 
-<div class="row align-items-center">
-  <div class="col-md-7">
-    <p>Brillouin microscopy measures the <strong>mechanical response</strong> of a material all-optically and without any contact. When light propagates through a sample, it is scattered by thermally-driven acoustic waves (phonons): the scattered light is frequency-shifted by ±ν<sub>B</sub> — the Brillouin shift — around the elastic (Rayleigh) line. This shift is directly related to the <strong>longitudinal elastic modulus</strong> (through the speed of sound and the density), while the linewidth reflects the viscosity. Measuring ν<sub>B</sub> point by point yields a quantitative, label-free map of the local stiffness.</p>
+Brillouin microscopy measures the **mechanical response** of a material all-optically and without any contact [(Scarcelli & Yun, 2008)](https://doi.org/10.1038/nphoton.2007.250). When light propagates through a sample, it is scattered by thermally-driven acoustic waves (phonons): the scattered light is frequency-shifted by ±ν<sub>B</sub> — the Brillouin shift — around the elastic (Rayleigh) line. This shift is directly related to the **longitudinal elastic modulus** (through the speed of sound and the density), while the linewidth reflects the viscosity. Measuring ν<sub>B</sub> point by point yields a quantitative, label-free map of the local stiffness.
+
+<div class="row align-items-center justify-content-center">
+  <div class="col-md-4">
+    {% include figure.liquid loading="eager" path="assets/img/brillouin_fig1.png" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-md-5 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/brillouin_fig1.png" class="img-fluid rounded z-depth-1" caption="Brillouin scattering: light exchanges energy with acoustic phonons, giving Stokes / anti-Stokes peaks shifted by ±ν<sub>B</sub> around the elastic line." %}
+  <div class="col-md-6 mt-3 mt-md-0">
+    <p class="caption" style="text-align: left;">Brillouin scattering: light exchanges energy with acoustic phonons, giving Stokes / anti-Stokes peaks shifted by ±ν<sub>B</sub> around the elastic line. The shift ν<sub>B</sub> encodes the longitudinal modulus, its width the viscosity.</p>
   </div>
 </div>
 
@@ -25,10 +27,13 @@ The main experimental challenge is that the Brillouin signal is extremely weak a
 
 As a proof of concept, we image a polystyrene bead immersed in water: the maps of Brillouin shift, linewidth and intensity clearly resolve the mechanical contrast between the stiff bead and its soft surroundings.
 
-<div class="row justify-content-center">
-  <div class="col-md-9 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/brillouin_fig3.png" class="img-fluid rounded z-depth-1" caption="Brillouin imaging of a polystyrene bead — maps of the Brillouin shift, linewidth and peak intensity (scale bar 4 µm)." %}
+<div class="row align-items-center justify-content-center">
+  <div class="col-md-7">
+    {% include figure.liquid path="assets/img/brillouin_fig3.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-md-5 mt-3 mt-md-0">
+    <p class="caption" style="text-align: left;">Brillouin imaging of a polystyrene bead — maps of the Brillouin shift, linewidth and peak intensity (scale bar 4 µm).</p>
   </div>
 </div>
 
-The goal is now to apply this approach to **soft connective tissues** — vocal cords, cartilage, cornea — to probe their biomechanics in situ. Combined with **second-harmonic generation** imaging of the collagen network, Brillouin microscopy lets us correlate the architecture of the tissue with its local mechanical properties, linking structure and function at the microscale.
+The goal is now to apply this approach to **soft connective tissues** — vocal cords, cartilage, cornea — to probe their biomechanics in situ [(Prevedel et al., 2019)](https://doi.org/10.1038/s41592-019-0543-3). Combined with **second-harmonic generation** imaging of the collagen network, Brillouin microscopy lets us correlate the architecture of the tissue with its local mechanical properties, linking structure and function at the microscale.

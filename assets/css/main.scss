@@ -67,3 +67,8 @@ html[data-theme="dark"] {
 .projects .card {
   border: 1.5px solid var(--global-theme-color);
 }
+
+/* ---- Justify the body text on project pages (but not captions) ---- */
+.post article p:not(.caption) {
+  text-align: justify;
+}

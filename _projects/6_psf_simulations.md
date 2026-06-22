@@ -6,7 +6,7 @@ importance: 2
 category: Past projects
 ---
 
-In STED microscopy, resolution is created by a doughnut-shaped depletion beam that switches off fluorescence everywhere except at its central zero. The quality of that zero — and therefore the resolution — depends critically on the exact shape of the point-spread function (PSF), which is extremely sensitive to the beam polarization, to the objective and to the optical properties of the sample. Being able to **simulate the vectorial PSF** realistically is thus essential to design, align and interpret a STED microscope. To this end we developed **[FASER](https://github.com/jhnnsrs/faser)**, an open-source tool that computes the focal field for arbitrary polarization states and refractive-index conditions, with an interactive Napari interface for single or batch simulations.
+In STED microscopy [(Hell & Wichmann, 1994)](https://doi.org/10.1364/OL.19.000780), resolution is created by a doughnut-shaped depletion beam that switches off fluorescence everywhere except at its central zero. The quality of that zero — and therefore the resolution — depends critically on the exact shape of the point-spread function (PSF), which is extremely sensitive to the beam polarization, to the objective and to the optical properties of the sample. Being able to **simulate the vectorial PSF** realistically is thus essential to design, align and interpret a STED microscope. To this end we developed **[FASER](https://github.com/jhnnsrs/faser)**, an open-source tool that computes the focal field for arbitrary polarization states and refractive-index conditions, with an interactive Napari interface for single or batch simulations.
 
 <div class="row justify-content-center">
   <div class="col-md-11 mt-3 mt-md-0">
@@ -14,7 +14,7 @@ In STED microscopy, resolution is created by a doughnut-shaped depletion beam th
   </div>
 </div>
 
-Deep inside tissue, optical aberrations distort the doughnut, fill in its central zero and quickly destroy the STED resolution. By modelling how each aberration (defocus, astigmatism, coma, spherical…) deforms the PSF, the dominant, depth-dependent terms can be identified and pre-compensated with **adaptive optics**. Correcting the leading aberration as a function of depth restores the depletion zero, recovers signal and preserves nanoscale resolution much deeper into living brain tissue.
+Deep inside tissue, optical aberrations distort the doughnut, fill in its central zero and quickly destroy the STED resolution. By modelling how each aberration (defocus, astigmatism, coma, spherical…) deforms the PSF, the dominant, depth-dependent terms can be identified and pre-compensated with **adaptive optics** [(Booth, 2014)](https://doi.org/10.1038/lsa.2014.46). Correcting the leading aberration as a function of depth restores the depletion zero, recovers signal and preserves nanoscale resolution much deeper into living brain tissue.
 
 <div class="row justify-content-center">
   <div class="col-md-11 mt-3 mt-md-0">

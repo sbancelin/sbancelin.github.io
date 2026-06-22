@@ -6,7 +6,7 @@ importance: 1
 category: Past projects
 ---
 
-Conventional fluorescence microscopy is limited by diffraction to about 250 nm — too coarse to resolve many neuronal structures. **STED microscopy** breaks this limit by adding, on top of the excitation spot, a doughnut-shaped depletion beam that switches off fluorescence everywhere except at its very centre: the effective focal spot shrinks well below the diffraction limit, down to a few tens of nanometres. Shaping this depletion beam (2D, z or 3D STED) tailors the resolution gain in the lateral and axial directions.
+Conventional fluorescence microscopy is limited by diffraction to about 250 nm — too coarse to resolve many neuronal structures. **STED microscopy** [(Hell & Wichmann, 1994)](https://doi.org/10.1364/OL.19.000780) breaks this limit by adding, on top of the excitation spot, a doughnut-shaped depletion beam that switches off fluorescence everywhere except at its very centre: the effective focal spot shrinks well below the diffraction limit, down to a few tens of nanometres. Shaping this depletion beam (2D, z or 3D STED) tailors the resolution gain in the lateral and axial directions.
 
 <div class="row justify-content-center">
   <div class="col-md-11 mt-3 mt-md-0">
@@ -22,7 +22,7 @@ Applied **in vivo**, STED makes it possible to image dendritic spines — the ti
   </div>
 </div>
 
-A complementary approach, **super-resolution shadow imaging (SUSHI)**, flips the contrast: instead of labelling sparse structures, the extracellular space is filled with a fluorescent dye, so that every cell and process appears as a dark "shadow" against the bright background. A single STED acquisition then reveals the complete, densely-packed anatomy of the tissue — neurons, glia, blood vessels and the extracellular space itself — non-invasively and in vivo.
+A complementary approach, **super-resolution shadow imaging (SUSHI)** [(Tønnesen et al., 2018)](https://doi.org/10.1016/j.cell.2018.02.007), flips the contrast: instead of labelling sparse structures, the extracellular space is filled with a fluorescent dye, so that every cell and process appears as a dark "shadow" against the bright background. A single STED acquisition then reveals the complete, densely-packed anatomy of the tissue — neurons, glia, blood vessels and the extracellular space itself — non-invasively and in vivo.
 
 <div class="row justify-content-center">
   <div class="col-md-11 mt-3 mt-md-0">
