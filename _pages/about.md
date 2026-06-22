@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher in nonlinear optical microscopy — <a href='https://www.lp2n.institutoptique.fr/'>LP2N</a>, Talence, France.
+subtitle: /
 
 profile:
   align: right
   image: microscope_icon_green.svg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Chargé de Recherche CNRS</strong></p>
+    <p><strong> CNRS Researcher </strong></p>
     <p>LP2N (UMR 5298) — Institut d'Optique d'Aquitaine</p>
     <p>1 rue François Mitterrand, 33400 Talence, France</p>
     <p>stephane.bancelin@cnrs.fr</p>
@@ -30,8 +30,10 @@ latest_posts:
 
 I am a researcher in nonlinear and super-resolution optical microscopy at the [Laboratoire Photonique, Numérique et Nanosciences (LP2N)](https://www.lp2n.institutoptique.fr/) in Talence, France. I build advanced imaging methods to look at biological tissues with as much detail — and as little perturbation — as possible.
 
-My early work focused on second-harmonic generation (SHG) microscopy, which I used to image and quantify the organization of collagen in tissues such as cornea, skin and tendon, linking optical signals to fibrillar structure and biomechanics. Since then, my research has moved toward live multiphoton and STED imaging of brain tissue, where I develop instrumentation and analysis tools — from aberration correction and PSF characterization to real-time acquisition workflows — to study neuronal structures such as dendritic spines in their native environment.
+Second-harmonic generation (SHG) microscopy is at the core of my research. I use it to image and quantify the organization of collagen in tissues such as cornea, skin and tendon, linking optical signals to fibrillar structure and biomechanics.
+
+I later worked on super-resolution STED imaging in the living mouse brain, developing instrumentation and analysis tools — from aberration correction and PSF characterization to real-time acquisition workflows — to study neuronal structures such as dendritic spines in their native environment.
+
+I have since returned to label-free imaging, combining SHG, Raman and Brillouin microscopy. Separately, I am developing two- and three-photon fluorescence imaging of carbon nanotubes.
 
 At the interface of photonics, optical instrumentation and quantitative image analysis, I enjoy turning physical measurements into biological insight, and developing the software that makes these experiments reproducible.
-
-You can find my full list of publications on [ORCID](https://orcid.org/0000-0001-6328-0423) and [ResearchGate](https://www.researchgate.net/profile/Stephane-Bancelin).
