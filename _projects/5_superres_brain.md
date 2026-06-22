@@ -18,7 +18,7 @@ Applied **in vivo**, STED makes it possible to image dendritic spines — the ti
 
 <div class="row justify-content-center">
   <div class="col-md-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/video/sted_fig2.gif" class="img-fluid rounded z-depth-1" avoid_scaling=true caption="Chronic in vivo STED imaging of dendritic spines in the living mouse brain, followed over time (animated time-lapse)." %}
+    {% include figure.liquid path="assets/img/sted_fig2.png" class="img-fluid rounded z-depth-1" caption="In vivo STED imaging of dendritic spines along a dendrite in the living mouse brain (top, 14×7 µm²), and a 3D comparison of a spine imaged with two-photon vs STED microscopy (bottom)." %}
   </div>
 </div>
 
