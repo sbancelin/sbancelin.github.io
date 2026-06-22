@@ -77,3 +77,36 @@ html[data-theme="dark"] {
 .post article .caption {
   font-style: italic;
 }
+
+/* ---- Project figures: precise widths relative to the text column ----
+   Use inline `style="width: N%"` (centred) or `style="flex: 0 0 N%; max-width: N%"`
+   (image left, caption right) to set the exact image width. */
+.proj-figcenter {
+  margin: 1.2rem auto;
+}
+.proj-figrow {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+.proj-figrow .proj-cap {
+  flex: 1 1 auto;
+}
+.proj-figrow .proj-cap .caption {
+  text-align: left;
+  margin: 0;
+}
+@media (max-width: 768px) {
+  .proj-figcenter {
+    width: 100% !important;
+  }
+  .proj-figrow {
+    display: block;
+  }
+  .proj-figrow > div {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex-basis: auto !important;
+  }
+}
