@@ -13,7 +13,7 @@ Second-harmonic generation (SHG) is a **coherent** nonlinear process in which tw
     {% include figure.liquid loading="eager" path="assets/img/shg_fig1.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="proj-cap">
-    <p class="caption" style="text-align: justify;">Principle of SHG (a): two photons at ω combine coherently into one photon at 2ω; the signal scales with the square of the aligned emitters and cancels for antiparallel arrangements. (b–e) the rare biological sources of SHG, dominated by fibrillar collagen, myosin in skeletal muscle, amylopectin in starch and microtubules in mitotic spindles (see <a href="https://doi.org/10.1007/s12551-022-01041-6">Aghigh et al., 2023</a>).</p>
+    <p class="caption" style="text-align: justify;">Principle of SHG (a): two photons at ω combine coherently into one photon at 2ω; the signal scales with the square of the aligned emitters and cancels for antiparallel arrangements. (b–e) the rare biological sources of SHG, dominated by fibrillar collagen, myosin in skeletal muscle, amylopectin in starch and microtubules in mitotic spindles.</p>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ Collagen is the main load-bearing protein of the body, and SHG gives a direct, t
 
 <div class="proj-figrow">
   <div class="proj-cap">
-    <p class="caption" style="text-align: justify;">Collagen-rich connective tissues (a) and their characteristic non-linear stress–strain behaviour (b), set by the reorientation, straightening and sliding of the fibres; (c–h) SHG imaging of collagen across tissues — tendon, cornea, vocal folds, bone, skin and artery (<a href="https://doi.org/10.1007/s12551-022-01041-6">Aghigh et al., 2023</a>).</p>
+    <p class="caption" style="text-align: justify;">Collagen-rich connective tissues (a) and their characteristic non-linear stress–strain behaviour (b), set by the reorientation, straightening and sliding of the fibres; (c–h) SHG imaging of collagen across tissues — tendon, cornea, vocal folds, bone, skin and artery.</p>
   </div>
   <div style="flex: 0 0 60%; max-width: 60%;">
     {% include figure.liquid path="assets/img/shg_fig2.png" class="img-fluid rounded z-depth-1" %}

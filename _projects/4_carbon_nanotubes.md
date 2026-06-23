@@ -23,7 +23,7 @@ Imaging deep inside biological tissue is limited by the scattering and absorptio
   <div class="proj-cap">
     <p class="caption" style="text-align: justify;">Spectroscopy of carbon nanotubes: the excitation–emission map (left) resolves the individual chiralities (n,m), each with its own near-infrared signature; the two-photon excitation spectra (right) characterise their multiphoton response.</p>
   </div>
-  <div style="flex: 0 0 60%; max-width: 60%;">
+  <div style="flex: 0 0 72%; max-width: 72%;">
     {% include figure.liquid path="assets/img/cnt_fig2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>

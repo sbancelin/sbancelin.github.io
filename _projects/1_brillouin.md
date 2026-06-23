@@ -23,7 +23,7 @@ The main experimental challenge is that the Brillouin signal is extremely weak a
   <div class="proj-cap">
     <p class="caption" style="text-align: justify;">The two-VIPA Brillouin spectrometer: optical layout (left), raw dispersed pattern on the camera (centre) and resulting spectral response showing the obtained attenuation.</p>
   </div>
-  <div style="flex: 0 0 60%; max-width: 60%;">
+  <div style="flex: 0 0 78%; max-width: 78%;">
     {% include figure.liquid path="assets/img/brillouin_fig2.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
