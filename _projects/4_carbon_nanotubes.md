@@ -13,18 +13,28 @@ Imaging deep inside biological tissue is limited by the scattering and absorptio
     {% include figure.liquid loading="eager" path="assets/img/cnt_fig1.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="proj-cap">
-    <p class="caption">Attenuation length in tissue versus wavelength: longer wavelengths (e.g. the 1700 nm window) penetrate deeper. The diagrams show the 2P / 3P excitation schemes accessible at each window.</p>
+    <p class="caption" style="text-align: justify;">Attenuation length in tissue versus wavelength: longer wavelengths (e.g. the 1700 nm window) penetrate deeper. The diagrams show the 2P / 3P excitation schemes accessible at each window.</p>
   </div>
 </div>
 
-**Single-walled carbon nanotubes (SWCNTs)** are rolled-up sheets of graphene whose electronic — and therefore optical — properties are set by their "chirality" (the (n,m) indices) [(O'Connell et al., 2002)](https://doi.org/10.1126/science.1072631). They emit in the near-infrared, are remarkably photostable and do not blink or bleach, which makes them excellent luminescent probes for deep, long-term imaging. Each chirality has a specific excitation/emission fingerprint, and the nanotubes can be excited through multiphoton processes — both of which we characterise by spectroscopy.
+**Single-walled carbon nanotubes (SWCNTs)** are rolled-up sheets of graphene whose electronic — and therefore optical — properties are set by their "chirality" (the (n,m) indices). They emit in the near-infrared, are remarkably photostable and do not blink or bleach, which makes them excellent luminescent probes for deep, long-term imaging [(Godin et al., 2017)](https://doi.org/10.1038/nnano.2016.248). Each chirality has a specific excitation/emission fingerprint, and the nanotubes can be excited through multiphoton processes — both of which we characterise by spectroscopy.
 
-<div class="proj-figcenter" style="width: 60%;">
-  {% include figure.liquid path="assets/img/cnt_fig2.png" class="img-fluid rounded z-depth-1" caption="Spectroscopy of carbon nanotubes: the excitation–emission map (left) resolves the individual chiralities (n,m), each with its own near-infrared signature; the two-photon excitation spectra (right) characterise their multiphoton response." %}
+<div class="proj-figrow">
+  <div class="proj-cap">
+    <p class="caption" style="text-align: justify;">Spectroscopy of carbon nanotubes: the excitation–emission map (left) resolves the individual chiralities (n,m), each with its own near-infrared signature; the two-photon excitation spectra (right) characterise their multiphoton response.</p>
+  </div>
+  <div style="flex: 0 0 60%; max-width: 60%;">
+    {% include figure.liquid path="assets/img/cnt_fig2.png" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 
 Building a dedicated infrared multiphoton microscope, we then demonstrate the **two-photon imaging of carbon nanotubes**, exploiting their near-infrared luminescence together with the depth and contrast advantages of multiphoton excitation.
 
-<div class="proj-figcenter" style="width: 60%;">
-  {% include figure.liquid path="assets/img/cnt_fig3.png" class="img-fluid rounded z-depth-1" caption="Demonstration of two-photon imaging of carbon nanotubes recorded with the infrared multiphoton microscope." %}
+<div class="proj-figrow">
+  <div style="flex: 0 0 60%; max-width: 60%;">
+    {% include figure.liquid path="assets/img/cnt_fig3.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="proj-cap">
+    <p class="caption" style="text-align: justify;">Demonstration of two-photon imaging of carbon nanotubes recorded with the infrared multiphoton microscope.</p>
+  </div>
 </div>
