@@ -68,24 +68,6 @@ html[data-theme="dark"] {
   border: 1.5px solid var(--global-theme-color);
 }
 
-/* ---- Green PDF link (with a PDF icon) next to each publication ----
-   Target the /assets/pdf/ path (no dot) so PurgeCSS does not treat ".pdf"
-   as a missing class and drop the rule. */
-.publications a.btn[href*="/assets/pdf/"] {
-  color: var(--global-theme-color) !important;
-  border-color: var(--global-theme-color) !important;
-}
-.publications a.btn[href*="/assets/pdf/"]:hover {
-  background-color: var(--global-theme-color) !important;
-  color: var(--global-card-bg-color) !important;
-}
-.publications a.btn[href*="/assets/pdf/"]::before {
-  content: "\f1c1"; /* fa-file-pdf */
-  font-family: "Font Awesome 7 Free";
-  font-weight: 900;
-  margin-right: 0.35em;
-}
-
 /* ---- Justify the body text on project pages (but not captions) ---- */
 .post article p:not(.caption) {
   text-align: justify;
