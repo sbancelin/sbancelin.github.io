@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: microscope_icon_green.svg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong> CNRS Researcher </strong></p>
@@ -30,7 +30,7 @@ latest_posts:
 
 I am a researcher in nonlinear and super-resolution optical microscopy at the [Laboratoire Photonique, Numérique et Nanosciences (LP2N)](https://www.lp2n.institutoptique.fr/) in Talence, France. I build advanced imaging methods to look at biological tissues with as much detail — and as little perturbation — as possible.
 
-Second-harmonic generation (SHG) microscopy is at the core of my research. I use it to image and quantify the organization of collagen in tissues such as cornea, skin and tendon, linking optical signals to fibrillar structure and biomechanics.
+Second-harmonic generation (SHG) microscopy is at the core of my research. I use it to image and quantify the organization of collagen in tissues such as cornea, skin, vocal folds and tendon, linking optical signals to fibrillar structure and biomechanics.
 
 I later worked on super-resolution STED imaging in the living mouse brain, developing instrumentation and analysis tools — from aberration correction and PSF characterization to real-time acquisition workflows — to study neuronal structures such as dendritic spines in their native environment.
 

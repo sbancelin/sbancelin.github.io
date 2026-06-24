@@ -13,7 +13,7 @@ In STED microscopy, resolution is created by a doughnut-shaped depletion beam th
     {% include figure.liquid loading="eager" path="assets/img/psf_fig1.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="proj-cap">
-    <p class="caption" style="text-align: justify;">FASER: (a) vectorial focusing model accounting for polarization and refractive-index mismatch, (b) the Napari-based interface, and (c) simulated PSFs (xy and xz) for different polarization states and degrees of depolarization.</p>
+    <p class="caption" style="text-align: justify;">FASER: (a) vectorial focusing model accounting for polarization and refractive-index mismatch, (b) the Napari-based interface, and (c) simulated PSFs (xy and xz) for different polarization states and degrees of depolarization (<a href="https://doi.org/10.1117/1.nph.12.1.017801">Roos et al., 2025</a>).</p>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ Deep inside tissue, optical aberrations distort the doughnut, fill in its centra
 
 <div class="proj-figrow">
   <div class="proj-cap">
-    <p class="caption" style="text-align: justify;">Effect of aberrations on the STED PSF (a–b) and depth-dependent aberration correction: the optimal correction varies linearly with depth (c), restoring signal (d) and preserving resolution (mean spine-neck diameter) far deeper than the uncorrected case (e).</p>
+    <p class="caption" style="text-align: justify;">Effect of aberrations on the STED PSF (a–b) (<a href="https://doi.org/10.1117/1.nph.12.1.017801">Roos et al., 2025</a>) and depth-dependent aberration correction: the optimal correction varies linearly with depth (c), restoring signal (d) and preserving resolution (mean spine-neck diameter) far deeper than the uncorrected case (e) (<a href="https://doi.org/10.1117/1.nph.8.3.035001">Bancelin et al., 2021</a>).</p>
   </div>
   <div style="flex: 0 0 60%; max-width: 60%;">
     {% include figure.liquid path="assets/img/psf_fig2.png" class="img-fluid rounded z-depth-1" %}

@@ -13,7 +13,7 @@ Conventional fluorescence microscopy is limited by diffraction to about 250 nm �
     {% include figure.liquid loading="eager" path="assets/img/sted_fig1.png" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="proj-cap">
-    <p class="caption" style="text-align: justify;">STED principle: a doughnut-shaped depletion beam confines fluorescence to a sub-diffraction spot (a); the STED microscope (c); and the resulting PSFs and beads for 2P, 2D-, z- and 3D-STED (d–e).</p>
+    <p class="caption" style="text-align: justify;">Principle of STED (a); the STED microscope (b); the improvement in resolution achieved with STED (c); and the resulting depletion and effective PSFs (d–e) (<a href="https://doi.org/10.1117/1.nph.10.4.044402">Bancelin et al., 2023</a>).</p>
   </div>
 </div>
 

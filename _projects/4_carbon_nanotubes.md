@@ -28,7 +28,7 @@ Imaging deep inside biological tissue is limited by the scattering and absorptio
   </div>
 </div>
 
-Building a dedicated infrared multiphoton microscope, we then demonstrate the **two-photon imaging of carbon nanotubes**, exploiting their near-infrared luminescence together with the depth and contrast advantages of multiphoton excitation.
+Building a dedicated infrared multiphoton microscope, we then demonstrate the **two-photon imaging of carbon nanotubes**, exploiting their near-infrared luminescence together with the depth and contrast advantages of multiphoton excitation. In parallel, we run numerical simulations to compare standard two-photon excitation with two-photon excitation in the short-wave infrared (2P-IR), in order to identify the most favourable imaging regime.
 
 <div class="proj-figrow">
   <div style="flex: 0 0 60%; max-width: 60%;">
