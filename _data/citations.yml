@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-17'
 papers:
   f6IQergAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: Imaging dendritic spines in the hippocampus of a living mouse by 3D-stimulated emission depletion microscopy
     year: '2023'
   f6IQergAAAAJ:J_g5lzvAfSwC:
-    citations: 16
+    citations: 15
     title: 'Arkitekt: streaming analysis and real-time workflows for microscopy'
     year: '2024'
   f6IQergAAAAJ:KlAtU1dfN6UC:
@@ -154,7 +154,7 @@ papers:
     title: Determination of collagen fibril size via absolute measurements of second-harmonic generation signals
     year: '2014'
   f6IQergAAAAJ:UebtZRa9Y70C:
-    citations: 123
+    citations: 124
     title: Ex vivo multiscale quantitation of skin biomechanics in wild-type and genetically-modified mice using multiphoton microscopy
     year: '2015'
   f6IQergAAAAJ:WF5omc3nYNoC:
@@ -202,7 +202,7 @@ papers:
     title: "Imagerie quantitative du collag\xE8ne par g\xE9n\xE9ration de seconde harmonique"
     year: '2013'
   f6IQergAAAAJ:dhFuZR0502QC:
-    citations: 218
+    citations: 219
     title: Chronic 2P-STED imaging reveals high turnover of dendritic spines in the hippocampus in vivo
     year: '2018'
   f6IQergAAAAJ:eQOLeE2rZwMC:
@@ -230,11 +230,11 @@ papers:
     title: The impact of collagen fibril polarity on second harmonic generation microscopy
     year: '2015'
   f6IQergAAAAJ:isC4tDSrTZIC:
-    citations: 22
+    citations: 23
     title: Shadow imaging for panoptical visualization of brain tissue in vivo
     year: '2023'
   f6IQergAAAAJ:j3f4tGmQtD8C:
-    citations: 60
+    citations: 61
     title: "Super\u2010resolution shadow imaging reveals local remodeling of astrocytic microstructures and brain extracellular space after osmotic challenge"
     year: '2021'
   f6IQergAAAAJ:kNdYIx-mwKoC:
@@ -242,7 +242,7 @@ papers:
     title: "Antonello De Martino (1954\u20132014): in"
     year: '2016'
   f6IQergAAAAJ:k_IJM867U9cC:
-    citations: 209
+    citations: 210
     title: 'Second harmonic generation microscopy: a powerful tool for bio-imaging'
     year: '2023'
   f6IQergAAAAJ:mB3voiENLucC:
@@ -262,7 +262,7 @@ papers:
     title: Orientational frustration drives enhanced diffusion of anisotropic particles in a liquid labyrinth
     year: '2026'
   f6IQergAAAAJ:qjMakFHDy7sC:
-    citations: 114
+    citations: 115
     title: Determination of collagen fiber orientation in histological slides using Mueller microscopy and validation by second harmonic generation imaging
     year: '2014'
   f6IQergAAAAJ:r0BpntZqJG4C:
