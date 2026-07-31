@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-31'
 papers:
   f6IQergAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: SHG-Brillouin imaging to probe microscopic biomechanical properties of connective tissues
     year: '2026'
   f6IQergAAAAJ:IjCSPb-OGe4C:
-    citations: 47
+    citations: 48
     title: 'Effect of incident light wavelength and corneal edema on light scattering and penetration: laboratory study of human corneas'
     year: '2010'
   f6IQergAAAAJ:JV2RwH3_ST0C:
@@ -74,7 +74,7 @@ papers:
     title: Imaging dendritic spines in the hippocampus of a living mouse by 3D-stimulated emission depletion microscopy
     year: '2023'
   f6IQergAAAAJ:J_g5lzvAfSwC:
-    citations: 15
+    citations: 16
     title: 'Arkitekt: streaming analysis and real-time workflows for microscopy'
     year: '2024'
   f6IQergAAAAJ:KlAtU1dfN6UC:
@@ -110,7 +110,7 @@ papers:
     title: A STED Microscope for Multimodal Investigation of Dendritic Spine Structure and Function
     year: '2024'
   f6IQergAAAAJ:O3NaXMp0MMsC:
-    citations: 4
+    citations: 5
     title: 'Understanding the nervous system: lessons from Frontiers in Neurophotonics'
     year: '2024'
   f6IQergAAAAJ:QIV2ME_5wuYC:
@@ -122,7 +122,7 @@ papers:
     title: Visualize the extracellular space of the brain by super-resolution shadow imaging
     year: '2020'
   f6IQergAAAAJ:RHpTSmoSYBkC:
-    citations: 6
+    citations: 5
     title: Nanoscale imaging of the functional anatomy of the brain
     year: '2021'
   f6IQergAAAAJ:RYcK_YlVTxYC:
@@ -162,7 +162,7 @@ papers:
     title: High contrast interferometric second harmonic generation microscopy probes the polarity of fibrils in complex collagenous tissues
     year: '2015'
   f6IQergAAAAJ:Wp0gIr-vW9MC:
-    citations: 100
+    citations: 101
     title: In tendons, differing physiological requirements lead to functionally distinct nanostructures
     year: '2018'
   f6IQergAAAAJ:YFjsv_pBGBYC:
@@ -242,7 +242,7 @@ papers:
     title: "Antonello De Martino (1954\u20132014): in"
     year: '2016'
   f6IQergAAAAJ:k_IJM867U9cC:
-    citations: 210
+    citations: 212
     title: 'Second harmonic generation microscopy: a powerful tool for bio-imaging'
     year: '2023'
   f6IQergAAAAJ:mB3voiENLucC:
@@ -262,11 +262,11 @@ papers:
     title: Orientational frustration drives enhanced diffusion of anisotropic particles in a liquid labyrinth
     year: '2026'
   f6IQergAAAAJ:qjMakFHDy7sC:
-    citations: 115
+    citations: 116
     title: Determination of collagen fiber orientation in histological slides using Mueller microscopy and validation by second harmonic generation imaging
     year: '2014'
   f6IQergAAAAJ:r0BpntZqJG4C:
-    citations: 35
+    citations: 36
     title: Aberration correction in stimulated emission depletion microscopy to increase imaging depth in living brain tissue
     year: '2021'
   f6IQergAAAAJ:roLk4NBRz8UC:
