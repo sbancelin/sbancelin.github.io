@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   f6IQergAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Ex vivo multiscale biomechanics in murine skin and Human cornea using multiphoton microscopy
     year: Unknown Year
   f6IQergAAAAJ:0EnyYjriUFMC:
-    citations: 28
+    citations: 29
     title: Fast interferometric second harmonic generation microscopy
     year: '2016'
   f6IQergAAAAJ:2P1L_qKh6hAC:
@@ -38,7 +38,7 @@ papers:
     title: Effect of refractive index mismatch on forward-to-backward ratios in SHG imaging
     year: '2018'
   f6IQergAAAAJ:8k81kl-MbHgC:
-    citations: 6
+    citations: 7
     title: "Special section guest editorial: Antonello de Martino (1954\u20132014): in memoriam"
     year: '2016'
   f6IQergAAAAJ:9ZlFYXVOiuMC:
@@ -86,8 +86,8 @@ papers:
     title: Combining tensile testing and structural analysis at the single collagen fibril level
     year: '2018'
   f6IQergAAAAJ:LkGwnXOMwfcC:
-    citations: 69
-    title: Analysis of forward and backward second harmonic generation images to probe the nanoscale structure of collagen within bone and cartilage
+    citations: 67
+    title: Analysis of forward and backward Second Harmonic Generation images to probe the nanoscale structure of collagen within bone and cartilage
     year: '2015'
   f6IQergAAAAJ:M05iB0D1s5AC:
     citations: 0
@@ -98,7 +98,7 @@ papers:
     title: The impact of chemical fixation on the microanatomy of mouse organotypic hippocampal slices
     year: '2023'
   f6IQergAAAAJ:M3ejUd6NZC8C:
-    citations: 26
+    citations: 25
     title: Probing microtubules polarity in mitotic spindles in situ using Interferometric Second Harmonic Generation Microscopy
     year: '2017'
   f6IQergAAAAJ:MXK_kJrjxJIC:
@@ -150,11 +150,11 @@ papers:
     title: "Polarization-resolved Second Harmonic Imaging of collagen organization in connective tissues\u2013Application to biomechanics"
     year: '2017'
   f6IQergAAAAJ:UeHWp8X0CEIC:
-    citations: 177
+    citations: 175
     title: Determination of collagen fibril size via absolute measurements of second-harmonic generation signals
     year: '2014'
   f6IQergAAAAJ:UebtZRa9Y70C:
-    citations: 124
+    citations: 125
     title: Ex vivo multiscale quantitation of skin biomechanics in wild-type and genetically-modified mice using multiphoton microscopy
     year: '2015'
   f6IQergAAAAJ:WF5omc3nYNoC:
@@ -162,7 +162,7 @@ papers:
     title: High contrast interferometric second harmonic generation microscopy probes the polarity of fibrils in complex collagenous tissues
     year: '2015'
   f6IQergAAAAJ:Wp0gIr-vW9MC:
-    citations: 101
+    citations: 98
     title: In tendons, differing physiological requirements lead to functionally distinct nanostructures
     year: '2018'
   f6IQergAAAAJ:YFjsv_pBGBYC:
@@ -178,7 +178,7 @@ papers:
     title: Two Photon excitation microscopy of individual Single-Walled Carbon Nanotubes
     year: '2026'
   f6IQergAAAAJ:Zph67rFs4hoC:
-    citations: 71
+    citations: 70
     title: A novel microstructural interpretation for the biomechanics of mouse skin derived from multiscale characterization
     year: '2017'
   f6IQergAAAAJ:_FxGoFyzp5QC:
@@ -190,7 +190,7 @@ papers:
     title: Aberration correction in STED microscopy to increase imaging depth in living brain tissue
     year: '2021'
   f6IQergAAAAJ:aqlVkmm33-oC:
-    citations: 83
+    citations: 79
     title: 'How aging impacts skin biomechanics: a multiscale study in mice'
     year: '2017'
   f6IQergAAAAJ:bEWYMUwI8FkC:
@@ -202,7 +202,7 @@ papers:
     title: "Imagerie quantitative du collag\xE8ne par g\xE9n\xE9ration de seconde harmonique"
     year: '2013'
   f6IQergAAAAJ:dhFuZR0502QC:
-    citations: 219
+    citations: 222
     title: Chronic 2P-STED imaging reveals high turnover of dendritic spines in the hippocampus in vivo
     year: '2018'
   f6IQergAAAAJ:eQOLeE2rZwMC:
@@ -234,7 +234,7 @@ papers:
     title: Shadow imaging for panoptical visualization of brain tissue in vivo
     year: '2023'
   f6IQergAAAAJ:j3f4tGmQtD8C:
-    citations: 61
+    citations: 62
     title: "Super\u2010resolution shadow imaging reveals local remodeling of astrocytic microstructures and brain extracellular space after osmotic challenge"
     year: '2021'
   f6IQergAAAAJ:kNdYIx-mwKoC:
@@ -255,14 +255,14 @@ papers:
     year: '2023'
   f6IQergAAAAJ:ns9cj8rnVeAC:
     citations: 3
-    title: Degradation of Proteoglycans and Collagen in Equine Meniscal Tissues
+    title: Degradation of proteoglycans and collagen in equine meniscal tissues
     year: '2024'
   f6IQergAAAAJ:pqnbT2bcN3wC:
     citations: 0
     title: Orientational frustration drives enhanced diffusion of anisotropic particles in a liquid labyrinth
     year: '2026'
   f6IQergAAAAJ:qjMakFHDy7sC:
-    citations: 116
+    citations: 115
     title: Determination of collagen fiber orientation in histological slides using Mueller microscopy and validation by second harmonic generation imaging
     year: '2014'
   f6IQergAAAAJ:r0BpntZqJG4C:
@@ -278,10 +278,10 @@ papers:
     title: Time-lapsed SHG imaging of collagen fibrillogenesis, correlation to electronic microscopy
     year: '2013'
   f6IQergAAAAJ:u5HHmVD_uO8C:
-    citations: 39
+    citations: 40
     title: In situ three-dimensional monitoring of collagen fibrillogenesis using SHG microscopy
     year: '2012'
   f6IQergAAAAJ:ufrVoPGSRksC:
-    citations: 24
+    citations: 23
     title: Optimization of Picrosirius red staining protocol to determine collagen fiber orientations in vaginal and uterine cervical tissues by Mueller polarized microscopy
     year: '2015'
