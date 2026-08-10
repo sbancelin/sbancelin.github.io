@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-10'
 papers:
   f6IQergAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -94,7 +94,7 @@ papers:
     title: A novel microstructural interpretation for the biomechanics of mouse skin derived from multiscale
     year: Unknown Year
   f6IQergAAAAJ:M3NEmzRMIkIC:
-    citations: 15
+    citations: 16
     title: The impact of chemical fixation on the microanatomy of mouse organotypic hippocampal slices
     year: '2023'
   f6IQergAAAAJ:M3ejUd6NZC8C:
@@ -162,7 +162,7 @@ papers:
     title: High contrast interferometric second harmonic generation microscopy probes the polarity of fibrils in complex collagenous tissues
     year: '2015'
   f6IQergAAAAJ:Wp0gIr-vW9MC:
-    citations: 98
+    citations: 99
     title: In tendons, differing physiological requirements lead to functionally distinct nanostructures
     year: '2018'
   f6IQergAAAAJ:YFjsv_pBGBYC:
@@ -266,7 +266,7 @@ papers:
     title: Determination of collagen fiber orientation in histological slides using Mueller microscopy and validation by second harmonic generation imaging
     year: '2014'
   f6IQergAAAAJ:r0BpntZqJG4C:
-    citations: 36
+    citations: 37
     title: Aberration correction in stimulated emission depletion microscopy to increase imaging depth in living brain tissue
     year: '2021'
   f6IQergAAAAJ:roLk4NBRz8UC:
